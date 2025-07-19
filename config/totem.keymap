@@ -86,9 +86,9 @@
 
             bindings = <
          &kp Q        &kp W       &kp E    &kp R        &kp T        &kp Y    &kp U          &kp I      &kp O    &kp P
-         &mt LG(A) A  &mt LALT S  &mt D D  &mt F F      &kp G        &kp H    &mt J J        &mt K K    &mt L L  &mt RGUI SQT
+         &mt LS(A) A  &mt LALT S  &mt D D  &mt F F      &kp G        &kp H    &mt J J        &mt K K    &mt L L  &mt RGUI SQT
 &kp ESC  &kp Z        &kp X       &kp C    &kp V        &kp B        &kp N    &kp M          &kp COMMA  &kp DOT  &kp FSLH      &kp BSLH
-                                  &kp DEL  &lt NAV TAB  &kp SPACE    &kp RET  &kp BACKSPACE  &kp A
+                                  &kp DEL  &lt NAV TAB  &kp SPACE    &kp RET  &kp BACKSPACE  &kt CAPS
             >;
         };
 
